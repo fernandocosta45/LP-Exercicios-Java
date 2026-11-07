@@ -1,0 +1,22 @@
+# LP2 - Exercícios em Java
+
+Repositório com exercícios desenvolvidos
+na disciplina de Lógica de Programação 2
+da FATEC São José dos Campos.
+
+## Exercício 1 - WhatsApp
+
+Sistema simplificado de mensagens,
+utilizando classes, herança e abstração.
+
+## Exercício 2 - Supermercado
+
+Sistema de gerenciamento de produtos e listas
+de compras, com cálculo de preços e descontos.
+
+## Tecnologias utilizadas
+
+- Java
+- IntelliJ IDEA
+- Programação Orientada a Objetos
+- Collection API
